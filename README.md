@@ -23,5 +23,5 @@ After the schematic was completed, the project entered the PCB stage. This was q
 
 
 
-💭 Final Thoughts + Conclusion
+# 💭 Final Thoughts + Conclusion
 Overall, this project was unexpectedly difficult, but it was fun understanding how a radio board like this worked, and it was quite interesting to learn how the Meshtastic system connections worked. Can't wait to actually see my final built project!!!
