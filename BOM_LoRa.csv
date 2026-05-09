@@ -1,0 +1,28 @@
+,"Price valued per unit and total price,  Assembled (in USD)",,,,
+Item,URL,Price (per unit ),Quantity needed,Quantity to order,Total
+buttons SW_Push,https://jlcpcb.com/partdetail/XUNPU-TS_1088AR02016/C720477,0.0556,2,4,0.2224
+10uf capcitors,https://jlcpcb.com/partdetail/439567-GRM21BR61H106KE43L/C440198,0.0681,6,12,0.8172
+0.1 uf capacitors,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663,0.003,6,12,0.036
+8pf capacitors,https://jlcpcb.com/partdetail/37486-0603CG8R0C500NT/C36508,0.0038,2,20,0.076
+LED smd,https://jlcpcb.com/partdetail/Hubei_KENTOElec-KT0603W/C2290,0.012,2,4,0.048
+USB-C receptacle,https://jlcpcb.com/partdetail/Korean_HropartsElec-TYPE_C_31_M12/C165948,0.1836,1,2,0.3672
+U. FL connector,https://www.tme.eu/gb/details/u.fl-r-smt-01-/micro-connectors/hirose/u-fl-r-smt-01/?brutto=1&campaign_id=9758607801&currency=USD&gad_campaignid=9758607801&gad_source=1&gbraid=0AAAAADyylhL-xkOCMkYjAfmvO4KItozLM&gclid=CjwKCAjwtvvPBhBuEiwAPMijr1vExfcS1V-Eb_xb48DYYPFjvYqBVwcQTWJcLmeNI7KV8bArIF-wdxoCd-AQAvD_BwE&utm_campaign=WIELKA%20BRYTANIA%20%5BPLA%5D%20CSS&utm_content=&utm_medium=cpc&utm_source=google,1.76,1,1,1.76
+15 uH inductors,https://jlcpcb.com/partdetail/76759-CMI201209J150KT/C75634,0.038,2,20,0.76
+5.1K resitors,https://jlcpcb.com/partdetail/23913-0603WAF5101T5E/C23186,0.0016,2,4,0.0064
+10K resitors,https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804,0.0031,2,4,0.0124
+2K resistors,https://jlcpcb.com/partdetail/23702-0603WAF2001T5E/C22975,0.0017,3,6,0.0102
+4.7K resitors,https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162,0.0013,2,4,0.0052
+ESP32-S3-WROOM-1,https://www.tme.eu/gb/details/esp32-wroom-32e/iot-wifi-bluetooth-modules/espressif/esp32-wroom-32e-n4/?brutto=1&campaign_id=9758607801&currency=USD&gad_campaignid=9758607801&gad_source=1&gbraid=0AAAAADyylhL-xkOCMkYjAfmvO4KItozLM&gclid=CjwKCAjwtvvPBhBuEiwAPMijrwEEJHTyKiIq_npxo2nk-I3vULBij6jviOHC4_PNOUWO0YMMD5WuNRoCCCcQAvD_BwE&utm_campaign=WIELKA%20BRYTANIA%20%5BPLA%5D%20CSS&utm_content=&utm_medium=cpc&utm_source=google,4.44,1,1,4.44
+TP4056-42-ESOP8,https://jlcpcb.com/partdetail/17264-TP4056_42ESOP8/C16581,0.1852,1,2,0.3704
+SX1262IMLTRT,https://jlcpcb.com/partdetail/SEMTECH-SX1262IMLTRT/C191341,3.207,1,2,6.144
+AMS1117-3.3,https://jlcpcb.com/partdetail/Advanced_MonolithicSystems-AMS1117_33/C6186,0.2123,2,4,0.8492
+32MHZ crystal,https://jlcpcb.com/partdetail/Huiyuancrystal-HY32MSMD2520CA1R30/C5265851,0.121,1,5,0.605
+,,,,,
+,,,,,
+,,,,,
+Subtotal (only parts),16.53,,,,
+Shipping and handling (US to UK),21,,,,
+PCB,4,,,,
+,,,,,
+Total (without assembly fees),20.53,,,,
+Total (with fees),40.8,,,,
